@@ -1,0 +1,2 @@
+# dotnetCore
+dotnet core project
