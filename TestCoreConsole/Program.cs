@@ -6,7 +6,7 @@ namespace TestCoreConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World, I want to change its!");
         }
     }
 }
